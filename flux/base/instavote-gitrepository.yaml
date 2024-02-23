@@ -11,4 +11,4 @@ spec:
   secretRef:
     name: github-instavote
   timeout: 1m0s
-  url: https://github.com/AlbertGoma/LFS269-instavote.git
+  url: https://github.com/AlbertGoma/LFS269-instavote-deploy.git
