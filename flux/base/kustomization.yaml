@@ -9,8 +9,8 @@ resources:
 - redis-staging-alert.yaml
 - redis-staging-kustomization.yaml
 - result-staging-helmrelease.yaml
-#- result-staging-image-policy.yaml
-#- result-staging-image-repository.yaml
+- result-staging-image-policy.yaml
+- result-staging-image-repository.yaml
 - slack-notif-alert.yaml
 - slack-provider.yaml
 - vote-staging-alert.yaml
