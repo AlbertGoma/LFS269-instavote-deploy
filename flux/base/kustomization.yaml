@@ -14,9 +14,9 @@ resources:
 - slack-notif-alert.yaml
 - slack-provider.yaml
 - vote-staging-alert.yaml
-#- vote-staging-image-policy.yaml
-#- vote-staging-image-repository.yaml
-#- vote-staging-image-update.yaml
+- vote-staging-image-policy.yaml
+- vote-staging-image-repository.yaml
+- vote-staging-image-update.yaml
 - vote-staging-kustomization.yaml
 #- worker-staging-alert.yaml
 #- worker-staging-kustomization.yaml
