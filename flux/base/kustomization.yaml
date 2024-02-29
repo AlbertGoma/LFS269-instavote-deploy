@@ -4,7 +4,7 @@ resources:
 #- db-staging-helmrelease.yaml
 #- github-instavote-provider.yaml
 #- github-instavote-receiver.yaml
-#- instavote-gitrepository.yaml
+- instavote-gitrepository.yaml
 #- lfs269-helmrepository.yaml
 #- redis-staging-alert.yaml
 - redis-staging-kustomization.yaml
