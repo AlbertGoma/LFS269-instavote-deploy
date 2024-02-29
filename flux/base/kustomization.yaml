@@ -8,7 +8,7 @@ resources:
 - lfs269-helmrepository.yaml
 - redis-staging-alert.yaml
 - redis-staging-kustomization.yaml
-#- result-staging-helmrelease.yaml
+- result-staging-helmrelease.yaml
 #- result-staging-image-policy.yaml
 #- result-staging-image-repository.yaml
 - slack-notif-alert.yaml
