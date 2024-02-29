@@ -13,7 +13,7 @@ resources:
 #- result-staging-image-repository.yaml
 - slack-notif-alert.yaml
 - slack-provider.yaml
-#- vote-staging-alert.yaml
+- vote-staging-alert.yaml
 #- vote-staging-image-policy.yaml
 #- vote-staging-image-repository.yaml
 #- vote-staging-image-update.yaml
